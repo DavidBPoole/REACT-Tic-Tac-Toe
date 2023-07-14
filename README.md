@@ -3,6 +3,7 @@
 [View App](davidbpoole-react-tic-tac-toe.netlify.app)
 
 ## Screenshot
+![Screenshot 2023-07-14 at 1 20 50 AM](https://github.com/DavidBPoole/REACT-Tic-Tac-Toe/assets/127453405/87c92a24-e627-435b-a94b-ff7ac6a2eff0)
 
 ## Contributors
 - [David Poole](https://github.com/DavidBPoole)
