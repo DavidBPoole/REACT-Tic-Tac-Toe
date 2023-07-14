@@ -1,6 +1,6 @@
 # TIC TAC TOE (REACT) [![Netlify Status](https://api.netlify.com/api/v1/badges/8e73d52f-1f51-4ca1-a580-3193d1af3bc4/deploy-status)](https://app.netlify.com/sites/davidbpoole-react-tic-tac-toe/deploys)
 
-[View App](https://davidbpoole-react-tic-tac-toe.netlify.app/))
+[View App](https://davidbpoole-react-tic-tac-toe.netlify.app/)
 
 ## Screenshot
 ![Screenshot 2023-07-14 at 1 20 50 AM](https://github.com/DavidBPoole/REACT-Tic-Tac-Toe/assets/127453405/87c92a24-e627-435b-a94b-ff7ac6a2eff0)
